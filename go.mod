@@ -1,0 +1,3 @@
+module github.com/camerontheross/go-scraper
+
+go 1.25.0
